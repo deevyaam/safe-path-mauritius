@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Safe Path Mauritius</string>
+    <string name="title_activity_main">Safe Path Mauritius</string>
+    <string name="package_name">mu.safepath.app</string>
+    <string name="custom_url_scheme">mu.safepath.app</string>
+</resources>

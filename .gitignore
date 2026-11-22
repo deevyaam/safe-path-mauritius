@@ -1,0 +1,12 @@
+node_modules/
+frontend/node_modules/
+backend/__pycache__/
+frontend/dist/
+*.pyc
+.DS_Store
+.env
+.vscode/
+
+# Local runtime data and build outputs
+backend/data/*.db
+*.apk

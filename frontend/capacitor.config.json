@@ -1,0 +1,8 @@
+{
+  "appId": "mu.safepath.app",
+  "appName": "Safe Path Mauritius",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true
+  }
+}
